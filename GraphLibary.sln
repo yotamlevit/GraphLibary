@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLibary", "GraphLibary.csproj", "{FC1921A5-E35A-4856-822C-E26F62710AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{5E41875F-4ADF-400B-973C-D426FBA22381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1921A5-E35A-4856-822C-E26F62710AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1921A5-E35A-4856-822C-E26F62710AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1921A5-E35A-4856-822C-E26F62710AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1921A5-E35A-4856-822C-E26F62710AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E41875F-4ADF-400B-973C-D426FBA22381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E41875F-4ADF-400B-973C-D426FBA22381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E41875F-4ADF-400B-973C-D426FBA22381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E41875F-4ADF-400B-973C-D426FBA22381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A58B975-5CF2-4A12-B5CD-D49D883F9CFF}
+	EndGlobalSection
+EndGlobal
